@@ -1,4 +1,4 @@
-package conditions;
+package org.example.conditions;
 
 public class IfElseCondition {
 }
